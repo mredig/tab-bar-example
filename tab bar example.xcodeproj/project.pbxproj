@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		338809362712176B00F3952D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		33FD43F5270F773A00A3DF36 /* tab bar example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "tab bar example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		33FD43F8270F773A00A3DF36 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		33FD43FA270F773A00A3DF36 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 		33FD43EC270F773A00A3DF36 = {
 			isa = PBXGroup;
 			children = (
+				338809362712176B00F3952D /* README.md */,
 				33FD43F7270F773A00A3DF36 /* tab bar example */,
 				33FD43F6270F773A00A3DF36 /* Products */,
 			);
